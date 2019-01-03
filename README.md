@@ -1,2 +1,0 @@
-# coba_coba
-Aplikasi 
